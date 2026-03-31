@@ -22,6 +22,13 @@ SupaClick! is a casual web-based browser game designed to test players' speed an
   <img src="https://contrib.rocks/image?repo=INT250-GA1-HiewKhaoHorYing-SupaClick/undefined" />
 </a>
 
+| Student ID  | Name | Responsibility | 
+| ------------- | ------------- | ------------- |
+| 67130500027  | Phakin Tangsatiankit  | Core Engine & Frontend Architecture |
+| 67130500054  | Apirak Chaiaksorn  | Interaction & Visual Effects  |
+| 67130500064  | Kittiheng Jamprasert  | Game Logic & State Management  |
+| 67130500071  | Chayanon Maksakarn  | UI & Frontend Architecture  |
+
 # INT250 CSS Framework
 This GitHub repository was created as part of the requirements for the course INT250 CSS Framework (3 Credits), Semester 2, Academic Year 2025.
 
