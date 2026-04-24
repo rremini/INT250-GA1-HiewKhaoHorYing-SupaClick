@@ -24,7 +24,7 @@ SupaClick! is a casual web-based browser game designed to test players' speed an
 
 | Student ID  | Name | Responsibility | 
 | ------------- | ------------- | ------------- |
-| 67130500027  | Phakin Tangsatiankit  | Core Engine & Frontend Architecture |
+| 67130500027  | Pakin Tangsatiankij | Core Engine & Frontend Architecture |
 | 67130500054  | Apirak Chaiaksorn  | Interaction & Visual Effects  |
 | 67130500064  | Kittiheng Jamprasert  | Game Logic & State Management  |
 | 67130500071  | Chayanon Maksakarn  | UI & Frontend Architecture  |
