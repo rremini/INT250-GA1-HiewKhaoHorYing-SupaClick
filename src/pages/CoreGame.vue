@@ -466,7 +466,7 @@ onUnmounted(() => {
       v-for="emoji in activeEmojis"
       :data-emoji="emoji.char"
       :key="emoji.id"
-      class="absolute cursor-pointer py-3 px-4 border border-white select-none active:scale-90 transition-transform"
+      class="absolute cursor-pointer py-3 px-4 select-none active:scale-90 transition-transform"
       :style="{
         left: emoji.x + '%',
         top: emoji.y + '%',
